@@ -1,0 +1,7 @@
+repositories:
+
+  _externals/5_2_5_release:
+    type:             git
+    url:              https://github.com/andry81-3dparty/xzutils
+    version:          5_2_5_release
+    fetch-to-branch:  5_2_5_release
